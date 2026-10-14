@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mymcp": {
+      "type": "http",
+      "url": "https://mathematical-registration-expertise-summit.trycloudflare.com/mcp/${MYMCP_TOKEN}"
+    }
+  }
+}
